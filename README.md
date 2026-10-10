@@ -1,5 +1,7 @@
 # 🟢 Rick & Morty Dashboard
 
+<p align="center"><img src="task1-banner.svg" alt="Task 1: Intro to Programming banner" width="100%"></p>
+
 Aplikasi React Mini Dashboard yang mengintegrasikan **Rick & Morty API** (2 endpoint: Character & Location).
 
 ## ✅ Fitur Utama
